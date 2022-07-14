@@ -1,2 +1,2 @@
-# gitprogram
+# gitpython
  for classes
